@@ -193,7 +193,7 @@
     <td><sub>Common Stock Equity</sub></td>
     <td><sub>commonStockEquity</sub></td>
     <td><sub>totalStockholderEquity</sub></td>
-    <td><sub></sub></td>
+    <td><sub>( == commonStock + retainedEarnings + treasuryStock)</sub></td>
 </tr></tbody>
 
 <tbody><tr>
