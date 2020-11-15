@@ -204,17 +204,10 @@
 </tr></tbody>
 
 <tbody><tr>
-    <td><sub>Book Value</sub></td>
-    <td><sub>bookValue</sub></td>
-    <td><sub></sub></td>
-    <td><sub>= tangibleAssets - totalLiab</sub></td>
-</tr></tbody>
-
-<tbody><tr>
-    <td><sub>Common Book Value</sub></td>
+    <td><sub>Common Tangible Book Value</sub></td>
     <td><sub>commonBookValue</sub></td>
     <td><sub></sub></td>
-    <td><sub>= commonStockEquity - totalLiab</sub></td>
+    <td><sub>= commonStockEquity - intangibleAssets</sub></td>
 </tr></tbody>
 </table>
 
