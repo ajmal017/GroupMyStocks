@@ -151,7 +151,7 @@
     <td><sub>Total Equity</sub></td>
     <td><sub>totalEquity</sub></td>
     <td><sub></sub></td>
-    <td><sub>= totalAssets - totalAssets</sub></td>
+    <td><sub>= totalAssets - totalLiab</sub></td>
 </tr></tbody>
 
 <tbody><tr>
