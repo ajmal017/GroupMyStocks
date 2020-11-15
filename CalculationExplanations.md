@@ -203,12 +203,74 @@
     <td><sub></sub></td>
 </tr></tbody>
 
+<tbody><tr>
+    <td><sub>Book Value</sub></td>
+    <td><sub>bookValue</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= tangibleAssets - totalLiab</sub></td>
+</tr></tbody>
 
+<tbody><tr>
+    <td><sub>Common Book Value</sub></td>
+    <td><sub>commonBookValue</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= commonStockEquity - totalLiab</sub></td>
+</tr></tbody>
+</table>
 
+# Other Indicators
+## Fundamentals
 
-
-
-
-
+<table>
+	
+<thead><tr>
+    <th><sub>Item</sub></th>
+    <th><sub>Software Variable</sub></th>
+    <th><sub>API Index Name</sub></th>
+    <th><sub>Calculation Method (Software Variable)</sub></th>
+</tr></thead>
+	
+<tbody><tr>
+    <td><sub>Working Capitals</sub></td>
+    <td><sub>workingCapital</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= totalCurrentAssets - totalCurrentLiabilities</sub></td>
+</tr></tbody>
 
 </table>
+## Ratios
+<table>
+<thead><tr>
+    <th><sub>Current Ratio</sub></th>
+    <th><sub>currentRatio</sub></th>
+    <th><sub></sub></th>
+    <th><sub>= totalCurrentAssets / totalCurrentLiabilities</sub></th>
+</tr></thead>
+	
+<tbody><tr>
+    <td><sub>Quick Ratio</sub></td>
+    <td><sub>commonBookValue</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= ( totalCurrentAssets - inventory ) / totalCurrentLiabilities</sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>BVPS</sub></td>
+    <td><sub>bvps</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= commonStockEquity /sharesOutstanding </sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>Tangible BVPS</sub></td>
+    <td><sub>tanBvps</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= (commonStockEquity - intangibleAssets)/sharesOutstanding </sub></td>
+</tr></tbody>
+
+</table>
+
+
+
+
+
