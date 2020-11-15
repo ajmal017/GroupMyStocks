@@ -155,16 +155,23 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>Minority Interest</sub></td>
+    <td><sub>minorityInterest</sub></td>
+    <td><sub>minorityInterest</sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>Total Stockholders' Equity</sub></td>
-    <td><sub>totalStockholderEquity</sub></td>
+    <td><sub>totalShareholderEquity</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
+    <td><sub>= totalEquity - minorityInterest</sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>Common Stock</sub></td>
     <td><sub>commonStock</sub></td>
-    <td><sub></sub></td>
+    <td><sub>commonStock</sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
@@ -193,14 +200,7 @@
     <td><sub>Preferred Stock Equity</sub></td>
     <td><sub>preferredStockEquity</sub></td>
     <td><sub></sub></td>
-    <td><sub></sub></td>
-</tr></tbody>
-
-<tbody><tr>
-    <td><sub>Minority Interest</sub></td>
-    <td><sub>minorityInterest</sub></td>
-    <td><sub>minorityInterest</sub></td>
-    <td><sub></sub></td>
+    <td><sub>= totalShareholderEquity - totalStockholderEquity</sub></td>
 </tr></tbody>
 
 <tbody><tr>
