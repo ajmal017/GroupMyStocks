@@ -200,7 +200,7 @@
     <td><sub>Preferred Stock Equity</sub></td>
     <td><sub>preferredStockEquity</sub></td>
     <td><sub></sub></td>
-    <td><sub>= totalShareholderEquity - totalStockholderEquity</sub></td>
+    <td><sub>= totalShareholderEquity - commonStockEquity</sub></td>
 </tr></tbody>
 
 <tbody><tr>
