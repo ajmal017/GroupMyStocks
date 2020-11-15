@@ -157,14 +157,14 @@
 <tbody><tr>
     <td><sub>Total Stockholders' Equity</sub></td>
     <td><sub>totalStockholderEquity</sub></td>
-    <td><sub>totalStockholderEquity</sub></td>
+    <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>Common Stock</sub></td>
     <td><sub>commonStock</sub></td>
-    <td><sub>commonStock</sub></td>
+    <td><sub></sub></td>
     <td><sub></sub></td>
 </tr></tbody>
 
@@ -185,15 +185,15 @@
 <tbody><tr>
     <td><sub>Common Stock Equity</sub></td>
     <td><sub>commonStockEquity</sub></td>
+    <td><sub>totalStockholderEquity</sub></td>
     <td><sub></sub></td>
-    <td><sub>= commonStock + retainedEarnings + treasuryStock</sub></td>
 </tr></tbody>
 
 <tbody><tr>
     <td><sub>Preferred Stock Equity</sub></td>
     <td><sub>preferredStockEquity</sub></td>
     <td><sub></sub></td>
-    <td><sub>= totalStockholderEquity - commonStockEquity</sub></td>
+    <td><sub></sub></td>
 </tr></tbody>
 
 <tbody><tr>
