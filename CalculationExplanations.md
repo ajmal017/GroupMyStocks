@@ -250,12 +250,12 @@
 </tr></thead>
 	
 <tbody><tr>
-    <th><sub>Current Ratio</sub></th>
-    <th><sub>currentRatio</sub></th>
-    <th><sub></sub></th>
-    <th><sub>= totalCurrentAssets / totalCurrentLiabilities</sub></th>
+    <td><sub>Current Ratio</sub></td>
+    <td><sub>currentRatio</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= totalCurrentAssets / totalCurrentLiabilities</sub></td>
 </tr></tbody>
-	
+
 <tbody><tr>
     <td><sub>Quick Ratio</sub></td>
     <td><sub>commonBookValue</sub></td>
