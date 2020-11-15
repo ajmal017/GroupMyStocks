@@ -238,14 +238,23 @@
 </tr></tbody>
 
 </table>
+
 ## Ratios
+
 <table>
 <thead><tr>
+    <th><sub>Item</sub></th>
+    <th><sub>Software Variable</sub></th>
+    <th><sub>API Index Name</sub></th>
+    <th><sub>Calculation Method (Software Variable)</sub></th>
+</tr></thead>
+	
+<tbody><tr>
     <th><sub>Current Ratio</sub></th>
     <th><sub>currentRatio</sub></th>
     <th><sub></sub></th>
     <th><sub>= totalCurrentAssets / totalCurrentLiabilities</sub></th>
-</tr></thead>
+</tr></tbody>
 	
 <tbody><tr>
     <td><sub>Quick Ratio</sub></td>
