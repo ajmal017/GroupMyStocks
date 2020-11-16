@@ -210,6 +210,7 @@
     <td><sub>= commonStockEquity - intangibleAssets</sub></td>
 </tr></tbody>
 </table>
+
 # Income Statement
 
 <table>
@@ -227,7 +228,6 @@
     <td><sub>totalRevenue</sub></td>
     <td><sub></sub></td>
 </tr></tbody>
-</table>
 
 <tbody><tr>
     <td><sub>Interest Expense</sub></td>
