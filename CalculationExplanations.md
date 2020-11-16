@@ -210,6 +210,32 @@
     <td><sub>= commonStockEquity - intangibleAssets</sub></td>
 </tr></tbody>
 </table>
+# Income Statement
+
+<table>
+	
+<thead><tr>
+    <th><sub>Item</sub></th>
+    <th><sub>Software Variable</sub></th>
+    <th><sub>API Index Name</sub></th>
+    <th><sub>Calculation Method (Software Variable)</sub></th>
+</tr></thead>
+
+<tbody><tr>
+    <td><sub>Revenue</sub></td>
+    <td><sub>totalRevenue</sub></td>
+    <td><sub>totalRevenue</sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+</table>
+
+<tbody><tr>
+    <td><sub>Interest Expense</sub></td>
+    <td><sub>interestExpense</sub></td>
+    <td><sub>interestExpense</sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+</table>
 
 # Other Indicators
 ## Fundamentals
