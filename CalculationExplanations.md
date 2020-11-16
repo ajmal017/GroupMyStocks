@@ -230,6 +230,20 @@
 </tr></tbody>
 
 <tbody><tr>
+    <td><sub>Gross Profit</sub></td>
+    <td><sub>grossProfit</sub></td>
+    <td><sub>grossProfit</sub></td>
+    <td><sub></sub></td>
+</tr></tbody>
+
+<tbody><tr>
+    <td><sub>Cost of Good Sold</sub></td>
+    <td><sub>goodSoldCost</sub></td>
+    <td><sub></sub></td>
+    <td><sub>= totalRevenue - grossProfit</sub></td>
+</tr></tbody>
+
+<tbody><tr>
     <td><sub>Interest Expense</sub></td>
     <td><sub>interestExpense</sub></td>
     <td><sub>interestExpense</sub></td>
